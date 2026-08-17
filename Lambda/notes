@@ -1,0 +1,10 @@
+lambda expressions are just used for simple operation
+
+A lambda is a small anonymous function return in a single line. It's useful for short throw away
+operations/applications  especially when passing a function as an argument
+
+syntax -> lambda <parameters> : <expression>
+________________________________________________________________________________________________
+
+--->if statement
+syntax =

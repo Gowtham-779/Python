@@ -1,0 +1,7 @@
+>reduce()
+    reduce() applies a function cumulatively the result of each step is passed to the next as
+    argument(first argument).
+
+>sorted()
+    sorted function returns a new sorted list , the key function determines what value to sort
+    
